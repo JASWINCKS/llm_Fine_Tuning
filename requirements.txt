@@ -1,4 +1,4 @@
-# Use PyTorch with CUDA 12.1 support
+# Use PyTorch with CUDA 12.8 support
 --index-url https://download.pytorch.org/whl/cu128
 --extra-index-url https://pypi.org/simple
 
