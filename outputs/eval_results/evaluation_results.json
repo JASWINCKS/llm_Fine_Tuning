@@ -1,0 +1,316 @@
+{
+  "metrics": {
+    "bleu": 0.0,
+    "rouge1": 0.0,
+    "rouge2": 0.0,
+    "rougeL": 0.0
+  },
+  "predictions": [
+    {
+      "instruction": "How to stop hackDOS attack on web API",
+      "input": "",
+      "reference": "",
+      "prediction": ","
+    },
+    {
+      "instruction": "Is SecureString ever practical in a C application",
+      "input": "",
+      "reference": "",
+      "prediction": "string"
+    },
+    {
+      "instruction": "Why do people put code like quotthrow 1 ltdont be evilgtquot and quotforquot in front of json responses",
+      "input": "",
+      "reference": "",
+      "prediction": "sassquotes"
+    },
+    {
+      "instruction": "OAuth2 and Google API access token expiration time",
+      "input": "",
+      "reference": "",
+      "prediction": "uthsnp and authorization tokens isAuthable : auth token and auth token expiration time isAuthable : auth token and auth token auth timeout"
+    },
+    {
+      "instruction": "Where do you store your salt strings",
+      "input": "",
+      "reference": "",
+      "prediction": "SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server SQL Server InformationSecurityStatement : SQL Server"
+    },
+    {
+      "instruction": "Why is there no sameorigin policy for WebSockets Why can I connect to wslocalhost",
+      "input": "",
+      "reference": "",
+      "prediction": "IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP :IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:"
+    },
+    {
+      "instruction": "Access Control in Domain Driven Design",
+      "input": "",
+      "reference": "",
+      "prediction": "Domain Authentication Service Route : Domain Authentication Route : Domain authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Server : Domain Authentication Route : Domain Authentication Route : Domain Authentication Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication"
+    },
+    {
+      "instruction": "How to validate uploaded file in ASPNET MVC",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "How to upgrade OpenSSL in CentOS 65 Linux Unix from source",
+      "input": "",
+      "reference": "",
+      "prediction": "Authorization headers in the SSLv 3.2 header file."
+    },
+    {
+      "instruction": "Example sites with broken security certs",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "Will HTML Encoding prevent all kinds of XSS attacks",
+      "input": "",
+      "reference": "",
+      "prediction": "idsx: :"
+    },
+    {
+      "instruction": "Obscure a UITextField password",
+      "input": "",
+      "reference": "",
+      "prediction": "UITextFieldPassword :"
+    },
+    {
+      "instruction": "How safe is it to host sensitive data on repository sites like github bitbucket etc",
+      "input": "",
+      "reference": "",
+      "prediction": "auth token token"
+    },
+    {
+      "instruction": "Why is this code vulnerable to buffer overflow attacks",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "How can I protect MySQL username and password from decompiling",
+      "input": "",
+      "reference": "",
+      "prediction": "mysql in the context of the SQL query?"
+    },
+    {
+      "instruction": "Using API keys in a react app",
+      "input": "",
+      "reference": "",
+      "prediction": "s Response : error : It would require a token to be retrieved, and would not allow them to access the token."
+    },
+    {
+      "instruction": "Worst security hole you39ve seen",
+      "input": "",
+      "reference": "",
+      "prediction": "wartsandfakes : How to use a hash string to create a password password without the user having to explicitly tell the user the password?"
+    },
+    {
+      "instruction": "Fastest hash for noncryptographic uses",
+      "input": "",
+      "reference": "",
+      "prediction": "SecureInputEncEncEncoding: SSLEncoding : XMPPEncrypt : XMPPEncryptCertificate : TLSEncryptEncryption : TLSCertificate : TLSEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptDecryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptencryptencryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptDecryptEncryptEncrypt EncryptEncryptEncryptEncryptEncrypt encryptencryptEncrypt Encrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt Enc"
+    },
+    {
+      "instruction": "What is the purpose of base 64 encoding and why it used in HTTP Basic Authentication",
+      "input": "",
+      "reference": "",
+      "prediction": "Header: header header: headers header : header : headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers"
+    },
+    {
+      "instruction": "Google Authenticator implementation in Python",
+      "input": "",
+      "reference": "",
+      "prediction": "context context RequestAuthenticationRequest : username : userID : Authorization header : content : user : username : userID : auth token token : user : userID : auth token token : requestAuthenticationRequest : userID : userID : auth token token : requestAuthenticationRequest : userID : auth token token token : requestAuthenticateRequest : userID : auth token token token : userID : auth token token : requestAuthenticationRequest : userID : auth token token token : requestAuthenticationRequest : userID : auth token token : requestAuthent"
+    },
+    {
+      "instruction": "What39s the advantage of scrypt over bcrypt",
+      "input": "",
+      "reference": "",
+      "prediction": "a Header : SHA 256 SHA 1 MD5:1 AES 256 SHA 256 AES 256 SHA 256 MD5:1 AES 256 SHA 256 MD5:1 SHA 256 SHA 256 SHA 256 MD5:1 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 MD5:1 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256"
+    },
+    {
+      "instruction": "Disable drop paste in HTML input fields",
+      "input": "",
+      "reference": "",
+      "prediction": "Use drop paste in HTML input fields for a dynamic user agent combination."
+    },
+    {
+      "instruction": "Ignore 39Security Warning39 running script from command line",
+      "input": "",
+      "reference": "",
+      "prediction": "User : user : User : User: User : User : User : User : User : User : User : User : User : User : User : User : User : User : AdminUser : User : User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :"
+    },
+    {
+      "instruction": "Why should checking a wrong password take longer than checking the right one",
+      "input": "",
+      "reference": "",
+      "prediction": "for example"
+    },
+    {
+      "instruction": "Sql Server 2005 how to change dbo login name",
+      "input": "",
+      "reference": "",
+      "prediction": "Authorization : false"
+    },
+    {
+      "instruction": "Difference between Hashing a Password and Encrypting it",
+      "input": "",
+      "reference": "",
+      "prediction": "Hashing a Password Encryption: Encrypting a Single Page Password And how to use the two different keys for this scenario."
+    },
+    {
+      "instruction": "Convert pfx to cer",
+      "input": "",
+      "reference": "",
+      "prediction": "irectory: and : auth: auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth"
+    },
+    {
+      "instruction": "Nodejs https pem error routinesPEM_read_biono start line",
+      "input": "",
+      "reference": "",
+      "prediction": "pem errorsPEM :: Authorization :: auth :: auth TokenPEMEncrypt : pem :: auth tokenEncrypt : pem :: auth tokenEncrypt : pemTokenEncrypt : token tokenEncrypt : tokenTokenEncrypt : tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt tokenEncrypt tokenEnc"
+    },
+    {
+      "instruction": "I need to securely store a username and password in Python what are my options",
+      "input": "",
+      "reference": "",
+      "prediction": "???"
+    },
+    {
+      "instruction": "How can I hash passwords in postgresql",
+      "input": "",
+      "reference": "",
+      "prediction": "AuthorizationException: SQL session not found"
+    },
+    {
+      "instruction": "Safe value must use propertybinding after bypass security with DomSanitizer",
+      "input": "",
+      "reference": "",
+      "prediction": "propertybinding"
+    },
+    {
+      "instruction": "SSL and maninthemiddle misunderstanding",
+      "input": "",
+      "reference": "",
+      "prediction": "SSL and maninthemiddle misunderstanding UnderstandingErrorCodes: SSL and maninthemiddle misunderstanding SSL and maninteraction: SSL and maninteraction: SSL and maninteraction: SSL TLS, SSL SSL TLS TLS SSL SSL SSL SSL SSL SSL"
+    },
+    {
+      "instruction": "How to do stateless sessionless amp cookieless authentication",
+      "input": "",
+      "reference": "",
+      "prediction": "amp authSessionRequest : amp auth SessionsUser : SessionSessionRequest"
+    },
+    {
+      "instruction": "How are the IV and authentication tag handled for quotAESGCMNoPaddingquot",
+      "input": "",
+      "reference": "",
+      "prediction": "Authorization :  AuthorizationTokenRequest :  AuthorizationAuthentication :  AuthorizationResponse :  AuthorizationAuthenticationError :  AuthorizationAuthenticationError :  AuthorizationAuthenticationAuthenticationTokenAuthenticationTokenAuthenticationAuthenticationError :  AuthorizationAuthenticationAuthenticationAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthentication tokenAuthenticationTokenAuthenticationTokenAuthentication tokenAuthenticationTokenAuthenticationTokenAuthentication TokenAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthentication token"
+    },
+    {
+      "instruction": "Somebody is storing credit card data how are they doing it",
+      "input": "",
+      "reference": "",
+      "prediction": "How do I access the data with the API?"
+    },
+    {
+      "instruction": "Difference between SSL amp TLS",
+      "input": "",
+      "reference": "",
+      "prediction": "SSL TLS TLS TLS TLS TLS TLS TLS TLS SSL TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS"
+    },
+    {
+      "instruction": "Default SecurityProtocol in NET 45",
+      "input": "",
+      "reference": "",
+      "prediction": "Header : Header headers.log.log.enoncrypted.log"
+    },
+    {
+      "instruction": "What common web exploits should I know about",
+      "input": "",
+      "reference": "",
+      "prediction": "Header: header"
+    },
+    {
+      "instruction": "SQL injection that gets around mysql_real_escape_string",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "Exploitable C Functions",
+      "input": "",
+      "reference": "",
+      "prediction": "methods"
+    },
+    {
+      "instruction": "Restrict access to a specific controller by IP address in ASPNET MVC Beta",
+      "input": "",
+      "reference": "",
+      "prediction": "IP Address is not valid IP Address is not valid"
+    },
+    {
+      "instruction": "Is it more efficient to store the permissions of the user in an JWT claim or to check it on the server at every request",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "How to check whether a directory is a sub directory of another directory",
+      "input": "",
+      "reference": "",
+      "prediction": "ip Address : 192.168. 1.1 port 80"
+    },
+    {
+      "instruction": "How can prepared statements protect from SQL injection attacks",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "What is A032021 Injection in OWASP Top 10",
+      "input": "",
+      "reference": "Injection flaws allow attackers to relay malicious code through an application to another system",
+      "prediction": "ResponseClasss : User : UserUserAgent : User: User : User : User : UserAgent : UserIPC: User:UserUserAgent : User:User:UserUserUserID:UserUserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:"
+    },
+    {
+      "instruction": "SecurityError Blocked a frame with origin from accessing a crossorigin frame",
+      "input": "",
+      "reference": "",
+      "prediction": "ip is not set on the origin domain."
+    },
+    {
+      "instruction": "Why is using the JavaScript eval function a bad idea",
+      "input": "",
+      "reference": "",
+      "prediction": "false"
+    },
+    {
+      "instruction": "What39s the purpose of Django setting SECRET_KEY",
+      "input": "",
+      "reference": "",
+      "prediction": "Authorization GET request :"
+    },
+    {
+      "instruction": "How to prevent Screen Capture in Android",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    },
+    {
+      "instruction": "Preventing Brute Force Logins on Websites",
+      "input": "",
+      "reference": "",
+      "prediction": "irectory: Domain: domain : user : sdomainDomainName : DomainUserName: UserName DomainUserName DomainPassword : DomainUserPasswordDomainUserName DomainUserName DomainUserPassword : DomainUserPasswordDomainUsername"
+    },
+    {
+      "instruction": "The difference between the 39Local System39 account and the 39Network Service39 account",
+      "input": "",
+      "reference": "",
+      "prediction": ""
+    }
+  ]
+}

@@ -1,0 +1,2042 @@
+[
+  {
+    "instruction": "Do CSRF attacks apply to API39s",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is CSRF possible with PUT or DELETE methods",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is there a way to load a different cacerts than the one specified in the java_homejrelibsecurity folder",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I get the entity that represents the current user in Symfony",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I generate a SALT in Java for SaltedHash",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Difference between HTTPS and SSL",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How safe are PHP session variables",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "IE 11 firstparty session cookies being lost in iframe",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "ASPNET Identity39s default Password Hasher How does it work and is it secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to reset Jenkins security settings from the command line",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I create a Java sandbox",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I sanitize user input with PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What command do I use to see what the ECDSA key fingerprint of my server is",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to keep the OAuth consumer secret safe and how to react when it39s compromised",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is SecureRandomints secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to avoid reverse engineering of an APK file",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Mysqldump launched by cron and password security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the most secure seed for random number generation",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are all the user accounts for IISASPNET and how do they differ",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is JSONP safe to use",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "In a PHP Apache Linux context why exactly is chmod 777 dangerous",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What security mechanisms does Meteor have",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it worth encrypting email addresses in the database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the difference between hash salting and noncing",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is checking the referrer enough to protect against a CSRF attack",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Storing Documents as Blobs in a Database Any disadvantages",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is md5 for",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are PDO prepared statements sufficient to prevent SQL injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to Block 100000 Individual IP addresses",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What should every programmer know about security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the best Distributed Brute Force countermeasure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "File containing its own checksum",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to set cookie secure flag using javascript",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to read a HttpOnly cookie using JavaScript",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Which of sprintfsnprintf is more secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is tokenbased authentication",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best Practices Salting amp peppering passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "OAuth secrets in mobile apps",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to prevent a browser from storing passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Glassfish DeploymentException Error in linking security policy for",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is quotdouble hashingquot a password less secure than just hashing it once",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "XSS prevention in JSPServlet web application",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can bcrypt have builtin salts",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does the SQL injection from the quotBobby Tablesquot XKCD comic work",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the right OAuth 20 flow for a mobile app",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is a retpoline and how does it work",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Generating cryptographically secure authentication tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Shouldn39t Android AccountManager Store OAuth Tokens on a PerAppUID Basis",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "In what cases will HTTP_REFERER be empty",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it possible to configure Linux capabilities per user",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Difference between CSRF and XCSRFToken",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are HTTPS headers encrypted",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does the JPEG of Death vulnerability operate",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Override Authorize Attribute in ASPNET MVC",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do you set up use HttpOnly cookies in PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A062021 Vulnerable and Outdated Components in OWASP Top 10",
+    "input": "",
+    "output": "Using components with known vulnerabilities can lead to serious security issues"
+  },
+  {
+    "instruction": "Secure Web Services REST over HTTPS vs SOAP WSSecurity Which is better",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why would one omit the close tag",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "what is the difference between XXSRFTOKEN and XCSRFTOKEN",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Secure hash and salt for PHP passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "In NETC test if process has administrative privileges",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Requested registry access is not allowed",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A042021 Insecure Design in OWASP Top 10",
+    "input": "",
+    "output": "Insecure design is a broad category representing different weaknesses expressed as missing or ineffective control design"
+  },
+  {
+    "instruction": "How do you protect your software from illegal distribution",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is Chrome reporting a secure non secure warning when no other browsers aren39t",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is either GET or POST more secure than the other",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "AngularJS changes URLs to quotunsafequot in extension page",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to Secure Android Shared Preferences",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "JSON security best practices",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "If you can decode JWT how are they secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Restrict API requests to only my own mobile app",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "npm audit only for production dependencies",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Authentication versus Authorization",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A082021 Software and Data Integrity Failures in OWASP Top 10",
+    "input": "",
+    "output": "Software and data integrity failures relate to code and infrastructure that does not protect against integrity violations"
+  },
+  {
+    "instruction": "How can I safely set the user principal in a custom WebAPI HttpMessageHandler",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP _SERVER39HTTP_HOST39 vs _SERVER39SERVER_NAME39 am I understanding the manual pages correctly",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are querystring parameters secure in HTTPS HTTP SSL",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Encrypt password in configuration files",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is there no preflight in CORS for POST requests with standard contenttype",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best way for a 39forgot password39 implementation",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "When would I need a SecureString in NET",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to properly add crosssite request forgery CSRF token using PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I secure REST API calls",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "The app39s Infoplist must contain an NSMicrophoneUsageDescription key with a string value explaining to the user how the app uses this data",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can a JACC provider use the Principaltorole mapping facilities of the server it39s deployed on",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "User Group and Role Management in NET with Active Directory",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Permission denied at hdfs",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What does it mean to escape a string",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securing REST API without reinventing the wheel",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are Google Cloud Functions protected from DDoS attacks",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Python 3 Are there any known security holes in astliteral_evalnode_or_string",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "mysql How to grant read only permissions to a user",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Storing credit card details",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the best practice for dealing with passwords in git repositories",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SanitizeRewrite HTML on the Client Side",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What 39sensitive information39 could be disclosed when setting JsonRequestBehavior to AllowGet",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Does my JDBC connection to the database use SSL or not",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Log4j vulnerability Is Log4j 1217 vulnerable was unable to find any JNDI code in source",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why javasecurityNoSuchProviderException No such provider BC",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are the risks of running 39sudo pip39",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "JAAS for human beings",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How serious is this new ASPNET security vulnerability and how can I workaround it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What benefit is conferred by TCP timestamp",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is it not advisable to have the database and web server on the same machine",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "JavaScript clientside vs serverside validation",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do Google 1 widgets break out of their iframe",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to validate domain credentials",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Create an ActiveRecord database table with no id column",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SHA512 vs Blowfish and Bcrypt",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How are SSL certificate server names resolvedCan I add alternative names using keytool",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Disable firefox same origin policy",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the best way to prevent session hijacking",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to give nonroot user in Docker container access to a volume mounted on the host",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Do you use the TR 24731 39safe39 functions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Will web browsers cache content over https",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it possible to check if an email is confirmed on Facebook",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "best practice to generate random token for forgot password",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the best way to defend against a path traversal attack",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to allow http content within an iframe on a https site",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Azure AD App Application Permissions vs Delegated Permissions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is redirecting http to https a bad idea",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to achieve a Safe authentication system in an angularjs app",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Finding All Insecure Content on a Secure Page",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Safely disable WP REST API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to enable DDoS protection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to apply Spring Security filter only on secured endpoints",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it OK to return a HTTP 401 for a non existent resource instead of 404 to prevent information disclosure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I throttle user login attempts in PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are quottop level JSON arraysquot and why are they a security risk",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are HTTP cookies port specific",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "High quality simple random password generator",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Can I protect against SQL injection by escaping singlequote and surrounding user input with singlequotes",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Laravel What is quotremember_tokenquot in the quotusersquot DB table",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Detecting if a browser is using Private Browsing mode",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is security through obscurity a bad idea",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I check if the certificate file I have is in pem format",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Practical nonimage based CAPTCHA approaches",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why are iframes considered dangerous and a security risk",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What does it mean when they say React is XSS protected",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is ngrok safe to use or can it be compromised",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A072021 Identification and Authentication Failures in OWASP Top 10",
+    "input": "",
+    "output": "Authentication and session management functions are often implemented incorrectly"
+  },
+  {
+    "instruction": "Is jQuery text method XSS safe",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is currently the most secure oneway encryption algorithm",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Single SignOn in Microservice Architecture",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Android SharedPreference security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Android Game Keeps Getting Hacked",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it safe to put a jwt into the url as a query parameter of a GET request",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What reasons are there NOT to use OpenID",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to restrict Firebase data modification",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "CORS localhost as allowed origin in production",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "The definitive guide to formbased website authentication",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "EncryptingHashing plain text passwords in database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Convert String to SecureString",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Difference between javautilRandom and javasecuritySecureRandom",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Disable browser 39Save Password39 functionality",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Username and password in https url",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "AES vs Blowfish for file encryption",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How secure is a HTTP POST",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP Session Fixation Hijacking",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securly Storing OpenID identifiers and OAuth tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to securely store access token and secret in Android",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Keygen tag in HTML5",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best practices to store CreditCard information into DataBase",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to pass the value of a variable to the standard input of a command",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are best practices for activationregistrationpasswordreset links in emails with nonce",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I turn off Oracle password expiration",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Google Authenticator available as a public service",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "When is it safe to enable CORS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best way to handle security and avoid XSS with user entered URLs",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Exposing database IDs security risk",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Where is the PEM file format specified",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Twoway encryption I need to store passwords that can be retrieved",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to encryptdecrypt data in php",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is printf with a single argument without conversion specifiers deprecated",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does SQLParameter prevent SQL Injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securing a password in a properties file",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is it good save to save sessions in the database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Found 4 vulnerabilities on npm install",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Preferred Method of Storing Passwords In Database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Hide XPoweredBy nginx",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securing an API SSL amp HTTP Basic Authentication vs Signature",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I prevent Android taking a screenshot when my app goes to the background",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to store access token Oauth 2 Auth code flow",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are JSON web services vulnerable to CSRF attacks",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP Is mysql_real_escape_string sufficient for cleaning user input",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "C The x format specifier",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Access is denied when attaching a database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are secret URLs truly secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Differences Between Rijndael and AES",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Secure distribution of NodeJS applications",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can a virus exist in an image",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Signed executables under Linux",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the difference between Message Digest Message Authentication Code and HMAC",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to keep the client credentials confidential while using OAuth239s Resource Owner Password Credentials grant type",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Login without HTTPS how to secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is this hacker trying to do",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Allowing Java to use an untrusted certificate for SSLHTTPS connection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Cross Domain Form POSTing",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Remove Server Response Header IIS7",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP MySQLI Prevent SQL Injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is Code Access Security of any real world use",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to use a client certificate to authenticate and authorize in a Web API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Secure Google Cloud Functions http trigger with auth",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I grant read access for a user to a database in SQL Server",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it safe to trust _SERVER39REMOTE_ADDR39",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Spring security with Oauth2 or HttpBasic authentication for the same resource",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "MongoDB is it safe to use document39s ID quotin publicquot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Keystore type which one to use",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "CSRF protection with CORS Origin header vs CSRF token",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securely storing passwords for use in python script",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why do salts make dictionary attacks 39impossible39",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Nonrandom salt for password hashes",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Unit testing with Spring Security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I store my users39 passwords safely",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are the best practices for avoiding xss attacks in a PHP site",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are best practices for securing the admin section of a website",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I protect myself from a zip bomb",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Access token and Refresh token best practices How to implement Access amp Refresh Tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the App_Data folder used for in Visual Studio",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "encrypt and decrypt md5",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Content Security Policy for self subdomains",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Spring Test amp Security How to mock authentication",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What security problems could come from exposing phpinfo to end users",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why people use relquotnoopener noreferrerquot instead of just relquotnoreferrerquot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Should I hash the password before sending it to the server side",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Error Importing SSL certificate Not an X509 Certificate",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is JsonRequestBehavior needed",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Today39s XSS onmouseover exploit on twittercom",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Simplest twoway encryption using PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Nodejs Expressjs User Permission Security Model",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "hash function in Python 33 returns different results between sessions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "difference between gcc D_FORTIFY_SOURCE1 and D_FORTIFY_SOURCE2",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to Export Certificate from Chrome on a Mac",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to Create SecureTLSSSL Websocket Server",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is using an outdated C compiler a security risk",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is char preferred over String for passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best way to store password in database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to create pfx file from certificate and private key",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SSL Error unable to get local issuer certificate",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does this checkbox recaptcha work and how can I use it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Nodejs hashing of passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to secure Elmahaxd",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is there a difference between authentication and authorization",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Should I impose a maximum length on passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Where to store JWT in browser How to protect against CSRF",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "where do I keep my amazon pem file on a mac",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Encrypted and secure docker containers",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to send password securely via HTTP using Javascript in absence of HTTPS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP Session Security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is it common to put CSRF prevention tokens in cookies",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Buffer overflow works in gdb but not without it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Simple caret at end of Windows batch file consumes all memory",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is SQL injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to prevent CSRF in a RESTful application",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why are strlcpy and strlcat considered insecure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "quotThe credentials supplied to the package were not recognizedquot error when authenticating as server with certificate generated using BouncyCastle",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A052021 Security Misconfiguration in OWASP Top 10",
+    "input": "",
+    "output": "Security misconfiguration is the most commonly seen issue often due to insecure default configurations"
+  },
+  {
+    "instruction": "javasecurityInvalidAlgorithmParameterException the trustAnchors parameter must be nonempty on Linux or why is the default truststore empty",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How To Secure Web Service Without Login",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to convert SecureString to SystemString",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to find the privileges and roles granted to a user in Oracle",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it really insecure to build HTML strings in Javascript",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Which _SERVER variables are safe",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Nodejs Express Framework Security Issues",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Disablewebsecurity in Chrome 48",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What security risks exist when setting AccessControlAllowOrigin to accept all domains",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it possible to put binary image data into html markup and then get the image displayed as usual in any browser",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Random number in range min max using PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I create a selfsigned certificate for code signing on Windows",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PreparedStatement IN clause alternatives",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Using openssl to get the certificate from a server",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to Implement Password Resets",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What are good ways to prevent SQL injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "The necessity of hiding the salt for a hash",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to make Authorize attribute return custom 403 error page instead of redirecting to the Logon page",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "JWT JSON Web Token automatic prolongation of expiration",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s wrong with XOR encryption",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to hash long passwords gt72 characters with blowfish",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Google Chrome weird cursor blink on pages never seen 39em before",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to prevent arbitrary client apps from using anonymous web API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Salt Generation and open source software",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to create a laravel hashed password",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "AWS Lambda How to store secret to external API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the best approach for generating a new API key",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "quotKeep Me Logged Inquot the best approach",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Should JWT be stored in localStorage or cookie",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is JSON Hijacking still an issue in modern browsers",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Create a mutable javalangString",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A092021 Security Logging and Monitoring Failures in OWASP Top 10",
+    "input": "",
+    "output": "Insufficient logging and monitoring coupled with missing or ineffective integration with incident response"
+  },
+  {
+    "instruction": "Vagrant insecure by default",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How secure is htaccess password protection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Removing the remembered login and password list in SQL Server Management Studio",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do you configure HttpOnly cookies in tomcat java webapps",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How should I ethically approach user password storage for later plaintext retrieval",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do API Keys and Secret Keys work Would it be secure if I have to pass my API and secret keys to another application",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to secure database passwords in PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Can a username and password be sent safely over HTTPS via URL parameters",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "HTML5 localStorage security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Reference What is a perfect code sample using the MySQL extension",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to limit setAccessible to only quotlegitimatequot uses",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Where to save a JWT in a browserbased application and how to use it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Spring MVC Checking if User is already logged in via Spring Security",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SecurityException not allowed to perform OP_READ_PHONE_STATE",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Embedding youtube video quotRefused to display document because display forbidden by XFrameOptionsquot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "iOS 11 ATS App Transport Security no longer accepts custom anchor certs",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP setcookie quotSameSiteStrictquot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Techniques for obscuring sensitive strings in C",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Preventing session hijacking",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Inheritance security rules violated while overriding member SecurityRuleSetLevel2",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Does pem file contain both private and public keys",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "access iframe content from a chrome39s extension content script",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "AndroidX Security EncryptedSharedPreferences v110 w API 21 issue",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does Google Maps secure their API Key How to make something similar",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Difference between http and https",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Authorization approaches and design patterns for Nodejs applications",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "https URL with token parameter how secure is it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "When you use 39badidea39 or 39thisisunsafe39 to bypass a Chrome certificateHSTS error does it only apply for the current site",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why am I suddenly getting a quotBlocked loading mixed active contentquot issue in Firefox",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best practices around generating OAuth tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Android In App Billing securing application public key",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to add Active Directory user group as login in SQL Server",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Save and Load from KeyChain Swift",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the risk of deploying debug symbols pdb file in a production environment",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "GPG vs SSH keys",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to redirect all HTTP requests to HTTPS using htaccess rules",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Java Error quotYour security settings have blocked a local application from runningquot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A022021 Cryptographic Failures in OWASP Top 10",
+    "input": "",
+    "output": "Failures related to cryptography which often lead to sensitive data exposure or system compromise"
+  },
+  {
+    "instruction": "github Dependabot alert Inefficient Regular Expression Complexity in nthcheck",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "quotRemember Me On This Computerquot How Should It Work",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How are software license keys generated",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is time a good salt",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Docker and securing passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is the standard session lifetime 24 minutes 1440 seconds",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Fundamental difference between Hashing and Encryption algorithms",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Which functions in the C standard library commonly encourage bad practice",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Modelling a permissions system",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why does PDO print my password when the connection fails",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to manually decrypt an ASPNET Core Authentication cookie",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the best way to stop people hacking the PHPbased highscore table of a Flash game",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Removing the password from a VBA project",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to hash a password with SHA512 in Java",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "JWT authentication for ASPNET Web API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Find the owner of an AWS Access Key",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How To Become a SAML Service Provider",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Handling passwords used for auth in source code",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I prevent SQL injection in PHP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it secure to submit from a HTTP form to HTTPS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to remove ASPNet MVC Default HTTP Headers",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Full Secure Image Upload Script",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Windows equivalent of OS X Keychain",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the difference between CORS and CSPs",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Black hat knowledge for white hat programmers",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securing website API keys in Chrome extensions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "NET obfuscation toolsstrategy",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Does it make sense to store JWT in a database",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to properly do private key management",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "WS on HTTP vs WSS on HTTPS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can sanitation that escapes single quotes be defeated by SQL injection in SQL Server",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "JWT refresh token flow",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "curl Is data encrypted when using the insecure option",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does Content Security Policy CSP work",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Securely Erasing Password in Memory Python",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why not use HTTPS for everything",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is the behavior behind the Shellshock vulnerability in Bash documented or at all intentional",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "XMLHttpRequest cannot load file Cross origin requests are only supported for HTTP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Leveraging ASPNET machineKey For Encrypting My Own Data",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I log in to AWS Console with an IAM user account",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "The EXECUTE permission is denied on the userdefined table types",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to send password securely over HTTP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How are ssl certificates verified",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SPA best practices for authentication and session management",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is this Rails JSON authentication API using Devise secure",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Generating cryptographically secure tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Use of Initialization Vector in openssl_encrypt",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best Practices for securing a REST API web service",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best way to store encryption keys in NET C",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "If you use HTTPS will your URL params will be safe from sniffing",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is there any way to put malicious code into a regular expression",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best way to secure Android app sensitive Data",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How secure would github hosting be for private repositories",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Do htmlspecialchars and mysql_real_escape_string keep my PHP code safe from injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "The ultimate cleansecure function",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does the RSA private key passphrase work under the hood",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Using SecureString",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "PHP image upload security check list",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SQLAlchemy SQL Injection",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Calculating HMACSHA256 using c to match payment provider example",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to obtain the location of cacerts of the default java installation",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to hash a password",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "is there a yarn alternative for npm audit",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do you monitor network traffic on the iPhone",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Disable cross domain web security in Firefox",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Looking for suggestions for building a secure REST API within Ruby on Rails",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the meaning and difference between subject user and principal",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Secure cookies and mixed httpshttp site usage",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to fake _SERVER39REMOTE_ADDR39 variable",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "client secret in OAuth 20",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How Do You Secure databaseyml",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Has reCaptcha been cracked hacked OCR39d defeated broken",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "HMAC vs simple MD5 Hash",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why Does OAuth v2 Have Both Access and Refresh Tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is an API key",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best practices when running Nodejs with port 80 Ubuntu Linode",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to deal with a slow SecureRandom generator",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SQL Server returns error quotLogin failed for user 39NT AUTHORITYANONYMOUS LOGON39quot in Windows application",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can a FormatString vulnerability be exploited",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What encryption algorithm is best for encrypting cookies",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Can local storage ever be considered secure",
+    "input": "",
+    "output": ""
+  }
+]

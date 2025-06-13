@@ -1,0 +1,257 @@
+[
+  {
+    "instruction": "Is it safe to use supportcors true in jQuery",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to secure RESTful web services",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Lockdown iPhoneiPodiPad so it can only run one app",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is strip_tags vulnerable to scripting attacks",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Determine file type in Ruby",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How permission can be checked at runtime without throwing SecurityException",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is using a NonRandom IV with CBC Mode a vulnerability",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to encrypt and decrypt file in Android",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How should a Facebook user access token be consumed on the serverside",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Disabling Safari autofill on usernames and passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Cross Domain Login How to log a user in automatically when transferred from one domain to another",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Exploitable PHP functions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the best way to implement quotremember mequot for a website",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Authenticating requests from mobile iPhone app to ASPNet Web API Feedback requested on my design",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I store and retrieve credentials from the Windows Vault credential manager",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "XFrameOptions AllowFrom multiple domains",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Payment Processors What do I need to know if I want to accept credit cards on my website",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Generating a random password in php",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to sanitze user input in PHP before mailing",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A012021 Broken Access Control in OWASP Top 10",
+    "input": "",
+    "output": "Broken access control allows attackers to bypass authorization and perform tasks as though they were privileged users"
+  },
+  {
+    "instruction": "How to create and add users to a group in Jenkins for authentication",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "API Keys vs HTTP Authentication vs OAuth in a RESTful API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is really a Principal in NET",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I compute a SHA2 ideally SHA 256 or SHA 512 hash in iOS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Defeating a Poker Bot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Algid parse error not a sequence",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to retrieve a file from a server via SFTP",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do I implement salt into my login for passwords",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to secure the JavaScript API Access Token",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Best practices for serverside handling of JWT tokens",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How does this giant regex work",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why does Google prepend while1 to their JSON responses",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Authentication in Elasticsearch",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SSO with CAS or OAuth",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it secure to store passwords as environment variables rather than as plain text in config files",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why restrict the length of a password",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Setting cookie in iframe different Domain",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A102021 ServerSide Request Forgery in OWASP Top 10",
+    "input": "",
+    "output": "SSRF flaws occur when a web application is fetching a remote resource without validating the usersupplied URL"
+  },
+  {
+    "instruction": "How to pin the Public key of a certificate on iOS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to secure phpMyAdmin",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the best quotforgot my passwordquot method",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Are Java random UUID39s predictable",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Hiding a password in a python script insecure obfuscation only",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to securely save usernamepassword local",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "quotThe test form is only available for requests from the local machinequot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Phonetically Memorable Password Generation Algorithms",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How do you Encrypt and Decrypt a PHP String",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Examples of SQL Injections through addslashes",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why use an API key and secret",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Security and Privacy of VSCode extensions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the difference between a cer pvk and pfx file",
+    "input": "",
+    "output": ""
+  }
+]

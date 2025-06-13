@@ -1,0 +1,47 @@
+model:
+  name: "microsoft/DialoGPT-medium"  # A good starting model for dialogue
+  # You can change to other models like:
+  # - "gpt2" for general text
+  # - "facebook/opt-350m" for larger models
+  # - "EleutherAI/pythia-1.4b" for even larger models
+  max_length: 512  # Maximum sequence length
+
+lora:
+  r: 8  # LoRA attention dimension (higher = more capacity but more parameters)
+  alpha: 16  # LoRA alpha parameter (scaling factor)
+  target_modules: ["c_attn", "c_proj"]  # Correct target modules for DialoGPT
+  dropout: 0.05  # Dropout probability for LoRA layers
+
+training:
+  output_dir: "outputs"  # Where model checkpoints will be saved
+  epochs: 3  # Number of complete passes through the dataset
+  batch_size: 4  # Number of samples per training batch
+  gradient_accumulation_steps: 4  # Accumulate gradients for effective batch size of 16
+  warmup_steps: 100  # Number of steps for learning rate warmup
+  learning_rate: 2e-4  # Initial learning rate
+  use_fp16: true  # Use mixed precision training
+  logging_steps: 10  # Log training progress every 10 steps
+  eval_steps: 100  # Evaluate every 100 steps
+  save_steps: 100  # Save checkpoint every 100 steps
+  evaluation_strategy: "steps"  # When to run evaluation
+  save_strategy: "steps"  # When to save checkpoints
+  optim: "adamw_torch"  # Optimizer to use
+  seed: 42  # Random seed for reproducibility
+  dataloader_num_workers: 4  # Number of workers for data loading
+  dataloader_pin_memory: true  # Pin memory for faster data transfer to GPU
+
+data:
+  train_path: "data/processed/train.json"  # Path to training dataset
+  test_path: "data/processed/test.json"    # Path to test dataset
+  text_column: "text"  # Column containing the text data
+  max_length: 512  # Maximum sequence length for tokenization
+
+wandb:
+  project: "llm-finetuning"
+  entity: null  # Set your wandb username here 
+
+
+evaluation:
+  model_path: "outputs/checkpoint-78"
+  test_file: "data/processed/test.json"
+  output_dir: "outputs/eval_results"

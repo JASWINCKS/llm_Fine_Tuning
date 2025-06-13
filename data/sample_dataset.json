@@ -1,0 +1,13 @@
+{
+    "text": [
+        "Hello, how can I help you today?",
+        "I'm looking for information about machine learning.",
+        "Machine learning is a field of artificial intelligence that focuses on developing systems that can learn from data.",
+        "What are the main types of machine learning?",
+        "The main types are supervised learning, unsupervised learning, and reinforcement learning.",
+        "Can you explain supervised learning?",
+        "Supervised learning is where the model learns from labeled training data, making predictions based on input-output pairs.",
+        "Thank you for the explanation!",
+        "You're welcome! Is there anything else you'd like to know?"
+    ]
+} 

@@ -1,0 +1,257 @@
+[
+  {
+    "instruction": "How to stop hackDOS attack on web API",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is SecureString ever practical in a C application",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why do people put code like quotthrow 1 ltdont be evilgtquot and quotforquot in front of json responses",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "OAuth2 and Google API access token expiration time",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Where do you store your salt strings",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is there no sameorigin policy for WebSockets Why can I connect to wslocalhost",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Access Control in Domain Driven Design",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to validate uploaded file in ASPNET MVC",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to upgrade OpenSSL in CentOS 65 Linux Unix from source",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Example sites with broken security certs",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Will HTML Encoding prevent all kinds of XSS attacks",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Obscure a UITextField password",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How safe is it to host sensitive data on repository sites like github bitbucket etc",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is this code vulnerable to buffer overflow attacks",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I protect MySQL username and password from decompiling",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Using API keys in a react app",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Worst security hole you39ve seen",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Fastest hash for noncryptographic uses",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is the purpose of base 64 encoding and why it used in HTTP Basic Authentication",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Google Authenticator implementation in Python",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the advantage of scrypt over bcrypt",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Disable drop paste in HTML input fields",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Ignore 39Security Warning39 running script from command line",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why should checking a wrong password take longer than checking the right one",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Sql Server 2005 how to change dbo login name",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Difference between Hashing a Password and Encrypting it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Convert pfx to cer",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Nodejs https pem error routinesPEM_read_biono start line",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "I need to securely store a username and password in Python what are my options",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can I hash passwords in postgresql",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Safe value must use propertybinding after bypass security with DomSanitizer",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SSL and maninthemiddle misunderstanding",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to do stateless sessionless amp cookieless authentication",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How are the IV and authentication tag handled for quotAESGCMNoPaddingquot",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Somebody is storing credit card data how are they doing it",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Difference between SSL amp TLS",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Default SecurityProtocol in NET 45",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What common web exploits should I know about",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "SQL injection that gets around mysql_real_escape_string",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Exploitable C Functions",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Restrict access to a specific controller by IP address in ASPNET MVC Beta",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Is it more efficient to store the permissions of the user in an JWT claim or to check it on the server at every request",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to check whether a directory is a sub directory of another directory",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How can prepared statements protect from SQL injection attacks",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What is A032021 Injection in OWASP Top 10",
+    "input": "",
+    "output": "Injection flaws allow attackers to relay malicious code through an application to another system"
+  },
+  {
+    "instruction": "SecurityError Blocked a frame with origin from accessing a crossorigin frame",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Why is using the JavaScript eval function a bad idea",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "What39s the purpose of Django setting SECRET_KEY",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "How to prevent Screen Capture in Android",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "Preventing Brute Force Logins on Websites",
+    "input": "",
+    "output": ""
+  },
+  {
+    "instruction": "The difference between the 39Local System39 account and the 39Network Service39 account",
+    "input": "",
+    "output": ""
+  }
+]

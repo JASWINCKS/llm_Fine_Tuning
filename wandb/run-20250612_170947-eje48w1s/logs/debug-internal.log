@@ -1,0 +1,54 @@
+{"time":"2025-06-12T17:09:47.5939718+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"C:\\Users\\jaswi\\Desktop\\FILES\\Projects\\Code\\LLm Fine-tuning\\wandb\\run-20250612_170947-eje48w1s\\logs\\debug-core.log"}
+{"time":"2025-06-12T17:09:49.9913506+05:30","level":"INFO","msg":"created new stream","id":"eje48w1s"}
+{"time":"2025-06-12T17:09:49.9913506+05:30","level":"INFO","msg":"handler: started","stream_id":"eje48w1s"}
+{"time":"2025-06-12T17:09:49.9918715+05:30","level":"INFO","msg":"stream: started","id":"eje48w1s"}
+{"time":"2025-06-12T17:09:49.9918715+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eje48w1s"}
+{"time":"2025-06-12T17:09:49.9918715+05:30","level":"INFO","msg":"sender: started","stream_id":"eje48w1s"}
+{"time":"2025-06-12T17:09:50.4558806+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-06-12T17:10:05.4641495+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:10:20.4678687+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:10:35.4652779+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:10:42.1451073+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:10:50.4641348+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:11:05.4669141+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:11:20.4664293+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:11:35.4645618+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:11:50.4672081+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:12:05.4657809+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:12:20.4638767+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:12:27.2058402+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:12:35.4633045+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:12:50.4648818+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:13:05.4640573+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:13:20.4689641+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:13:35.4658182+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:13:50.46432+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:13:57.1695521+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:14:05.4653906+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:14:20.4690925+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:14:27.1542136+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:14:35.4677236+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:14:50.4660303+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:14:57.151618+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:15:05.4667453+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:15:20.4661359+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:15:20.7608269+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:15:35.4652859+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:15:44.6241972+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:15:50.4669233+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:16:05.4651758+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:16:08.0164929+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:16:20.4638735+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:16:35.4661713+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:16:49.2507904+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/osreaper123-reaper/llm-finetuning/eje48w1s/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-06-12T17:16:50.4658584+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:17:05.4677388+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:17:20.4674211+05:30","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-06-12T17:17:27.1695459+05:30","level":"INFO","msg":"stream: closing","id":"eje48w1s"}
+{"time":"2025-06-12T17:17:27.1695459+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-06-12T17:17:27.170056+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-06-12T17:17:28.3367218+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-06-12T17:17:29.1057406+05:30","level":"INFO","msg":"handler: closed","stream_id":"eje48w1s"}
+{"time":"2025-06-12T17:17:29.1057406+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eje48w1s"}
+{"time":"2025-06-12T17:17:29.1057406+05:30","level":"INFO","msg":"sender: closed","stream_id":"eje48w1s"}
+{"time":"2025-06-12T17:17:29.106246+05:30","level":"INFO","msg":"stream: closed","id":"eje48w1s"}
