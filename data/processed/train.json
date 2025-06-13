@@ -60,7 +60,7 @@
     "output": ""
   },
   {
-    "instruction": "What command do I use to see what the ECDSA key fingerprint of my server is",
+    "instruction": "How do you set up use HttpOnly cookies in PHP",
     "input": "",
     "output": ""
   },
@@ -125,7 +125,7 @@
     "output": ""
   },
   {
-    "instruction": "Storing Documents as Blobs in a Database Any disadvantages",
+    "instruction": "Which functions in the C standard library commonly encourage bad practice",
     "input": "",
     "output": ""
   },
@@ -270,7 +270,7 @@
     "output": ""
   },
   {
-    "instruction": "How do you set up use HttpOnly cookies in PHP",
+    "instruction": "PHP setcookie quotSameSiteStrictquot",
     "input": "",
     "output": ""
   },
@@ -430,12 +430,12 @@
     "output": ""
   },
   {
-    "instruction": "Permission denied at hdfs",
+    "instruction": "Are secret URLs truly secure",
     "input": "",
     "output": ""
   },
   {
-    "instruction": "What does it mean to escape a string",
+    "instruction": "What command do I use to see what the ECDSA key fingerprint of my server is",
     "input": "",
     "output": ""
   },
@@ -920,7 +920,7 @@
     "output": ""
   },
   {
-    "instruction": "PHP Is mysql_real_escape_string sufficient for cleaning user input",
+    "instruction": "How are the IV and authentication tag handled for quotAESGCMNoPaddingquot",
     "input": "",
     "output": ""
   },
@@ -935,7 +935,7 @@
     "output": ""
   },
   {
-    "instruction": "Are secret URLs truly secure",
+    "instruction": "Why does PDO print my password when the connection fails",
     "input": "",
     "output": ""
   },
@@ -1100,7 +1100,7 @@
     "output": ""
   },
   {
-    "instruction": "Content Security Policy for self subdomains",
+    "instruction": "Storing Documents as Blobs in a Database Any disadvantages",
     "input": "",
     "output": ""
   },
@@ -1120,7 +1120,7 @@
     "output": ""
   },
   {
-    "instruction": "Should I hash the password before sending it to the server side",
+    "instruction": "Should JWT be stored in localStorage or cookie",
     "input": "",
     "output": ""
   },
@@ -1260,7 +1260,7 @@
     "output": ""
   },
   {
-    "instruction": "What is SQL injection",
+    "instruction": "Why is the standard session lifetime 24 minutes 1440 seconds",
     "input": "",
     "output": ""
   },
@@ -1425,7 +1425,7 @@
     "output": ""
   },
   {
-    "instruction": "Should JWT be stored in localStorage or cookie",
+    "instruction": "NET obfuscation toolsstrategy",
     "input": "",
     "output": ""
   },
@@ -1525,7 +1525,7 @@
     "output": ""
   },
   {
-    "instruction": "PHP setcookie quotSameSiteStrictquot",
+    "instruction": "What is SQL injection",
     "input": "",
     "output": ""
   },
@@ -1660,7 +1660,7 @@
     "output": ""
   },
   {
-    "instruction": "Why is the standard session lifetime 24 minutes 1440 seconds",
+    "instruction": "What does it mean to escape a string",
     "input": "",
     "output": ""
   },
@@ -1670,7 +1670,7 @@
     "output": ""
   },
   {
-    "instruction": "Which functions in the C standard library commonly encourage bad practice",
+    "instruction": "Permission denied at hdfs",
     "input": "",
     "output": ""
   },
@@ -1680,7 +1680,7 @@
     "output": ""
   },
   {
-    "instruction": "Why does PDO print my password when the connection fails",
+    "instruction": "PHP Is mysql_real_escape_string sufficient for cleaning user input",
     "input": "",
     "output": ""
   },
@@ -1765,7 +1765,7 @@
     "output": ""
   },
   {
-    "instruction": "NET obfuscation toolsstrategy",
+    "instruction": "Should I hash the password before sending it to the server side",
     "input": "",
     "output": ""
   },

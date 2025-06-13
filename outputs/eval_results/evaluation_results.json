@@ -10,55 +10,55 @@
       "instruction": "How to stop hackDOS attack on web API",
       "input": "",
       "reference": "",
-      "prediction": ","
+      "prediction": ""
     },
     {
       "instruction": "Is SecureString ever practical in a C application",
       "input": "",
       "reference": "",
-      "prediction": "string"
+      "prediction": "OutputEncfs :  EncryptSession:  EncryptionSession:"
     },
     {
       "instruction": "Why do people put code like quotthrow 1 ltdont be evilgtquot and quotforquot in front of json responses",
       "input": "",
       "reference": "",
-      "prediction": "sassquotes"
+      "prediction": "jsonOutput"
     },
     {
       "instruction": "OAuth2 and Google API access token expiration time",
       "input": "",
       "reference": "",
-      "prediction": "uthsnp and authorization tokens isAuthable : auth token and auth token expiration time isAuthable : auth token and auth token auth timeout"
+      "prediction": "and Authentication credentials."
     },
     {
       "instruction": "Where do you store your salt strings",
       "input": "",
       "reference": "",
-      "prediction": "SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server InformationSecurityStatement : SQL Server SQL Server InformationSecurityStatement : SQL Server"
+      "prediction": "osed: : ose: : ose: : ose: : ose: : ose: : ose: : ose: : ose: : ose: : ose: : ose: : ose: : ose: :"
     },
     {
       "instruction": "Why is there no sameorigin policy for WebSockets Why can I connect to wslocalhost",
       "input": "",
       "reference": "",
-      "prediction": "IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP :IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:IP:"
+      "prediction": "SSL SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS TLS SSL TLS TLS SSL TLS SSL TLS SSL TLS TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL TLS SSL SSL SSL TLS SSL TLS SSL TLS SSL SSL TLS SSL SSL SSL TLS SSL SSL SSL TLS TLS SSL SSL TLS"
     },
     {
       "instruction": "Access Control in Domain Driven Design",
       "input": "",
       "reference": "",
-      "prediction": "Domain Authentication Service Route : Domain Authentication Route : Domain authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Server : Domain Authentication Route : Domain Authentication Route : Domain Authentication Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication Route : Domain Authentication"
+      "prediction": "Domain Driven Design Use Cases"
     },
     {
       "instruction": "How to validate uploaded file in ASPNET MVC",
       "input": "",
       "reference": "",
-      "prediction": ""
+      "prediction": "Type of the exception Exception Message : : No security exception found Message : : No security exception found Message : : No security exception found Message : : No security exception found Message : : No security exception found Message : : No security exception found Message : : No security exception found Message : : No security exception found Message : : No security exception found"
     },
     {
       "instruction": "How to upgrade OpenSSL in CentOS 65 Linux Unix from source",
       "input": "",
       "reference": "",
-      "prediction": "Authorization headers in the SSLv 3.2 header file."
+      "prediction": "IdentifierEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncryptionEncodingEncryptionEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEncEnc"
     },
     {
       "instruction": "Example sites with broken security certs",
@@ -70,241 +70,241 @@
       "instruction": "Will HTML Encoding prevent all kinds of XSS attacks",
       "input": "",
       "reference": "",
-      "prediction": "idsx: :"
+      "prediction": "XSS on a static site with no authentication?"
     },
     {
       "instruction": "Obscure a UITextField password",
       "input": "",
       "reference": "",
-      "prediction": "UITextFieldPassword :"
+      "prediction": "sfcax : index : null"
     },
     {
       "instruction": "How safe is it to host sensitive data on repository sites like github bitbucket etc",
       "input": "",
       "reference": "",
-      "prediction": "auth token token"
+      "prediction": "security"
     },
     {
       "instruction": "Why is this code vulnerable to buffer overflow attacks",
       "input": "",
       "reference": "",
-      "prediction": ""
+      "prediction": "ipsaEncKeyEncEncKey is not a valid input string for SSL SSL is insecure unless the program is storing SSL keys in the form string"
     },
     {
       "instruction": "How can I protect MySQL username and password from decompiling",
       "input": "",
       "reference": "",
-      "prediction": "mysql in the context of the SQL query?"
+      "prediction": "auth.auth.auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Auth.Authorization.Auth.Auth.Auth.Authorization.Auth"
     },
     {
       "instruction": "Using API keys in a react app",
       "input": "",
       "reference": "",
-      "prediction": "s Response : error : It would require a token to be retrieved, and would not allow them to access the token."
+      "prediction": "ids for example."
     },
     {
       "instruction": "Worst security hole you39ve seen",
       "input": "",
       "reference": "",
-      "prediction": "wartsandfakes : How to use a hash string to create a password password without the user having to explicitly tell the user the password?"
+      "prediction": "OutputStream:  GetResponse :  ContentStream:  Authentication :  RequestAuthentication :  AuthenticationError : s ErrorAuthentication : s AuthenticationError: s ResponseAuthenticateAuthenticate : s ResponseAuthenticatedAuthenticate : s AuthenticationError : s AuthenticationError : s AuthenticationError : s AuthenticationError : s ResponseAuthenticationError : s AuthenticationError : s AuthenticationError : s AuthenticationError : s AuthenticationError : s AuthenticationError : s AuthenticationError : s AuthenticationError: s AuthenticationError: s AuthenticationError: s AuthenticationError: s Authentication"
     },
     {
       "instruction": "Fastest hash for noncryptographic uses",
       "input": "",
       "reference": "",
-      "prediction": "SecureInputEncEncEncoding: SSLEncoding : XMPPEncrypt : XMPPEncryptCertificate : TLSEncryptEncryption : TLSCertificate : TLSEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptDecryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptencryptencryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptDecryptEncryptEncrypt EncryptEncryptEncryptEncryptEncrypt encryptencryptEncrypt Encrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncrypt EncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncryptEncrypt Enc"
+      "prediction": "AuthorizationError : cannot find a secure path using TLS SSL on a public variable"
     },
     {
       "instruction": "What is the purpose of base 64 encoding and why it used in HTTP Basic Authentication",
       "input": "",
       "reference": "",
-      "prediction": "Header: header header: headers header : header : headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers header: headers"
+      "prediction": "ip is not valid"
     },
     {
       "instruction": "Google Authenticator implementation in Python",
       "input": "",
       "reference": "",
-      "prediction": "context context RequestAuthenticationRequest : username : userID : Authorization header : content : user : username : userID : auth token token : user : userID : auth token token : requestAuthenticationRequest : userID : userID : auth token token : requestAuthenticationRequest : userID : auth token token token : requestAuthenticateRequest : userID : auth token token token : userID : auth token token : requestAuthenticationRequest : userID : auth token token token : requestAuthenticationRequest : userID : auth token token : requestAuthent"
+      "prediction": "input"
     },
     {
       "instruction": "What39s the advantage of scrypt over bcrypt",
       "input": "",
       "reference": "",
-      "prediction": "a Header : SHA 256 SHA 1 MD5:1 AES 256 SHA 256 AES 256 SHA 256 MD5:1 AES 256 SHA 256 MD5:1 SHA 256 SHA 256 SHA 256 MD5:1 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 MD5:1 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256 SHA 256"
+      "prediction": "OutputTransport:  OutputTransport : : OutputTransport: : OutputTransport : : OutputTransport: : OutputTransport: : OutputTransport : : OutputTransport: : OutputTransport : : OutputTransport: : OutputTransport : :"
     },
     {
       "instruction": "Disable drop paste in HTML input fields",
       "input": "",
       "reference": "",
-      "prediction": "Use drop paste in HTML input fields for a dynamic user agent combination."
+      "prediction": "Authorization : SSL and TLS"
     },
     {
       "instruction": "Ignore 39Security Warning39 running script from command line",
       "input": "",
       "reference": "",
-      "prediction": "User : user : User : User: User : User : User : User : User : User : User : User : User : User : User : User : User : User : AdminUser : User : User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :User :"
+      "prediction": "AuthenticationError : can't identify a valid value"
     },
     {
       "instruction": "Why should checking a wrong password take longer than checking the right one",
       "input": "",
       "reference": "",
-      "prediction": "for example"
+      "prediction": "ids and keys is a security issue. How should we enforce this principle in the future?"
     },
     {
       "instruction": "Sql Server 2005 how to change dbo login name",
       "input": "",
       "reference": "",
-      "prediction": "Authorization : false"
+      "prediction": "dbo log logonname.log to the SQL Server server's password"
     },
     {
       "instruction": "Difference between Hashing a Password and Encrypting it",
       "input": "",
       "reference": "",
-      "prediction": "Hashing a Password Encryption: Encrypting a Single Page Password And how to use the two different keys for this scenario."
+      "prediction": "hash.dec"
     },
     {
       "instruction": "Convert pfx to cer",
       "input": "",
       "reference": "",
-      "prediction": "irectory: and : auth: auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth : auth"
+      "prediction": "cer ProtectOutput : cer"
     },
     {
       "instruction": "Nodejs https pem error routinesPEM_read_biono start line",
       "input": "",
       "reference": "",
-      "prediction": "pem errorsPEM :: Authorization :: auth :: auth TokenPEMEncrypt : pem :: auth tokenEncrypt : pem :: auth tokenEncrypt : pemTokenEncrypt : token tokenEncrypt : tokenTokenEncrypt : tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt tokenEncrypt : tokenEncrypt tokenEncrypt tokenEncrypt tokenEnc"
+      "prediction": "header header"
     },
     {
       "instruction": "I need to securely store a username and password in Python what are my options",
       "input": "",
       "reference": "",
-      "prediction": "???"
+      "prediction": "isa Password : can't handle the username password combination The Python library PythonUserPassword should be used in the context of the above"
     },
     {
       "instruction": "How can I hash passwords in postgresql",
       "input": "",
       "reference": "",
-      "prediction": "AuthorizationException: SQL session not found"
+      "prediction": "Identity: auth.authorization, auth.password, auth.passwords, auth.password.authentication, auth.authentication, auth.authentication, auth.password, auth.authentication, auth.password.password, auth.authentication, auth.password.authentication, auth.password, auth.password.password, auth.password.authentication, auth.password.password, auth.password.authentication, auth.password.authentication, auth.password, auth.password, auth.password"
     },
     {
       "instruction": "Safe value must use propertybinding after bypass security with DomSanitizer",
       "input": "",
       "reference": "",
-      "prediction": "propertybinding"
+      "prediction": "sanitized sankeyEncrypted sankeyEncrypted"
     },
     {
       "instruction": "SSL and maninthemiddle misunderstanding",
       "input": "",
       "reference": "",
-      "prediction": "SSL and maninthemiddle misunderstanding UnderstandingErrorCodes: SSL and maninthemiddle misunderstanding SSL and maninteraction: SSL and maninteraction: SSL and maninteraction: SSL TLS, SSL SSL TLS TLS SSL SSL SSL SSL SSL SSL"
+      "prediction": ""
     },
     {
       "instruction": "How to do stateless sessionless amp cookieless authentication",
       "input": "",
       "reference": "",
-      "prediction": "amp authSessionRequest : amp auth SessionsUser : SessionSessionRequest"
+      "prediction": ""
     },
     {
-      "instruction": "How are the IV and authentication tag handled for quotAESGCMNoPaddingquot",
+      "instruction": "Content Security Policy for self subdomains",
       "input": "",
       "reference": "",
-      "prediction": "Authorization :  AuthorizationTokenRequest :  AuthorizationAuthentication :  AuthorizationResponse :  AuthorizationAuthenticationError :  AuthorizationAuthenticationError :  AuthorizationAuthenticationAuthenticationTokenAuthenticationTokenAuthenticationAuthenticationError :  AuthorizationAuthenticationAuthenticationAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthentication tokenAuthenticationTokenAuthenticationTokenAuthentication tokenAuthenticationTokenAuthenticationTokenAuthentication TokenAuthenticationTokenAuthenticationTokenAuthenticationTokenAuthentication token"
+      "prediction": "Hostname : User : user"
     },
     {
       "instruction": "Somebody is storing credit card data how are they doing it",
       "input": "",
       "reference": "",
-      "prediction": "How do I access the data with the API?"
+      "prediction": "Identity Theft Request : Identity Theft Request Request : Identity Theft Request : User Identity Request: User Authentication Request: User Authentication Request: User Authentication Request: User Authentication Request: User Authentication Request: User Authentication Request: User Authentication Request: User Authentication Request: User Authentication Request:User Authentication Request: User Authentication Request: User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication Request:User Authentication"
     },
     {
       "instruction": "Difference between SSL amp TLS",
       "input": "",
       "reference": "",
-      "prediction": "SSL TLS TLS TLS TLS TLS TLS TLS TLS SSL TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS"
+      "prediction": "TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS TLS"
     },
     {
       "instruction": "Default SecurityProtocol in NET 45",
       "input": "",
       "reference": "",
-      "prediction": "Header : Header headers.log.log.enoncrypted.log"
+      "prediction": ""
     },
     {
       "instruction": "What common web exploits should I know about",
       "input": "",
       "reference": "",
-      "prediction": "Header: header"
+      "prediction": "Implementing: what would lead you to think that the security of the JavaScript codebase is compromised by Javascript exploits?"
     },
     {
       "instruction": "SQL injection that gets around mysql_real_escape_string",
       "input": "",
       "reference": "",
-      "prediction": ""
+      "prediction": "mysql :: authResponse :: sanitizedString :: authResponse :: sanitizedString ::authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: authResponse :: sanitizedString :: sanitized"
     },
     {
       "instruction": "Exploitable C Functions",
       "input": "",
       "reference": "",
-      "prediction": "methods"
+      "prediction": "C7: securitypolicy"
     },
     {
       "instruction": "Restrict access to a specific controller by IP address in ASPNET MVC Beta",
       "input": "",
       "reference": "",
-      "prediction": "IP Address is not valid IP Address is not valid"
+      "prediction": "ipRoute : ip Route : proxy : proxy: proxyProxy : proxy:Proxy:Proxy :proxy : proxy:proxy : proxy:Proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy:proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :proxy :"
     },
     {
       "instruction": "Is it more efficient to store the permissions of the user in an JWT claim or to check it on the server at every request",
       "input": "",
       "reference": "",
-      "prediction": ""
+      "prediction": "Authorization : Yes"
     },
     {
       "instruction": "How to check whether a directory is a sub directory of another directory",
       "input": "",
       "reference": "",
-      "prediction": "ip Address : 192.168. 1.1 port 80"
+      "prediction": "How to use a directory in a file system to check whether it shares a directory name with another directory"
     },
     {
       "instruction": "How can prepared statements protect from SQL injection attacks",
       "input": "",
       "reference": "",
-      "prediction": ""
+      "prediction": "?"
     },
     {
       "instruction": "What is A032021 Injection in OWASP Top 10",
       "input": "",
       "reference": "Injection flaws allow attackers to relay malicious code through an application to another system",
-      "prediction": "ResponseClasss : User : UserUserAgent : User: User : User : User : UserAgent : UserIPC: User:UserUserAgent : User:User:UserUserUserID:UserUserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:UserID:"
+      "prediction": "HTML Scripts and PHP Scripts in the HTML WebView API 5.11."
     },
     {
       "instruction": "SecurityError Blocked a frame with origin from accessing a crossorigin frame",
       "input": "",
       "reference": "",
-      "prediction": "ip is not set on the origin domain."
+      "prediction": "Blocked a frame with origin from accessing a crossorigin frame"
     },
     {
       "instruction": "Why is using the JavaScript eval function a bad idea",
       "input": "",
       "reference": "",
-      "prediction": "false"
+      "prediction": "I'm not sure why eval function should be used?"
     },
     {
       "instruction": "What39s the purpose of Django setting SECRET_KEY",
       "input": "",
       "reference": "",
-      "prediction": "Authorization GET request :"
+      "prediction": "'on of the SQL queries for a website's authentication system? How should I do it?"
     },
     {
       "instruction": "How to prevent Screen Capture in Android",
       "input": "",
       "reference": "",
-      "prediction": ""
+      "prediction": "s"
     },
     {
       "instruction": "Preventing Brute Force Logins on Websites",
       "input": "",
       "reference": "",
-      "prediction": "irectory: Domain: domain : user : sdomainDomainName : DomainUserName: UserName DomainUserName DomainPassword : DomainUserPasswordDomainUserName DomainUserName DomainUserPassword : DomainUserPasswordDomainUsername"
+      "prediction": "Domain and DomainAuthPass : Domain and DomainAuthPass : Domain and DomainAuthPass : Domain and DomainAuthPass : DomainAndDomainAuthPass: DomainAndDomainAuthPass: DomainAndDomainAuthPass: DomainAndDomainAuthPass : DomainAndDomainAuthPass : DomainAnd DomainAuthPass : DomainAnddomainAuthPass : DomainAnddomainAuthPass : DomainIsDomainAddAccessPassword : DomainAddAccessPassword : DomainAddAccessPassword : DomainAddAccessPasswordUser : DomainAddAccessPasswordUser : DomainAddAccessPasswordUser : Domain"
     },
     {
       "instruction": "The difference between the 39Local System39 account and the 39Network Service39 account",
